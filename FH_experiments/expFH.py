@@ -75,6 +75,6 @@ def run_exp(rendermode='', testName = "riverSwim", sup = ''):
 	
 	print("*********************************************")
 
-run_exp(rendermode='', testName = "4-room",  sup = '_0')
+#run_exp(rendermode='', testName = "4-room",  sup = '_0')
 run_exp(rendermode='', testName = "riverSwim6",  sup = '_0')
-run_exp(rendermode='', testName = "riverSwim8",  sup = '_0')
+#run_exp(rendermode='', testName = "riverSwim8",  sup = '_0')
